@@ -218,8 +218,8 @@
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
        <g id="id22">
-        <rect class="BoundingBox" stroke="none" fill="none" x="7049" y="20249" width="3653" height="2753"/>
-        <path fill="none" stroke="rgb(52,101,164)" d="M 7050,20250 L 10700,20250 10700,23000"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="7049" y="20249" width="3653" height="2728"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 7050,20250 L 10700,20250 10700,22975"/>
        </g>
       </g>
       <g class="TextShape">
@@ -261,17 +261,17 @@
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id28">
         <rect class="BoundingBox" stroke="none" fill="none" x="6899" y="15899" width="7603" height="3004"/>
-        <path fill="rgb(175,208,149)" stroke="none" d="M 10700,15900 L 14500,17400 10700,18901 6900,17400 10700,15900 10700,15900 Z"/>
+        <path fill="rgb(232,242,161)" stroke="none" d="M 10700,15900 L 14500,17400 10700,18901 6900,17400 10700,15900 10700,15900 Z"/>
         <path fill="none" stroke="rgb(52,101,164)" d="M 10700,15900 L 14500,17400 10700,18901 6900,17400 10700,15900 10700,15900 Z"/>
         <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9220" y="17265"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Imposer la </tspan></tspan><tspan class="TextPosition" x="9431" y="17976"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">sanction </tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id29">
-        <rect class="BoundingBox" stroke="none" fill="none" x="8199" y="22999" width="5003" height="2003"/>
-        <path fill="rgb(255,219,182)" stroke="none" d="M 10700,25000 L 8200,25000 8200,23000 13200,23000 13200,25000 10700,25000 Z"/>
-        <path fill="none" stroke="rgb(52,101,164)" d="M 10700,25000 L 8200,25000 8200,23000 13200,23000 13200,25000 10700,25000 Z"/>
-        <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9448" y="23865"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Ferme le</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9679" y="24576"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">dossier</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="8199" y="22974" width="5003" height="2003"/>
+        <path fill="rgb(255,219,182)" stroke="none" d="M 10700,24975 L 8200,24975 8200,22975 13200,22975 13200,24975 10700,24975 Z"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 10700,24975 L 8200,24975 8200,22975 13200,22975 13200,24975 10700,24975 Z"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9448" y="23840"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Ferme le</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9679" y="24551"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">dossier</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="TextShape">
