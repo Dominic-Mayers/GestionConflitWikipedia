@@ -346,14 +346,14 @@
       <g class="Group">
        <g class="com.sun.star.drawing.ClosedBezierShape">
         <g id="id38">
-         <rect class="BoundingBox" stroke="none" fill="none" x="4347" y="6033" width="16801" height="19950"/>
-         <path fill="none" stroke="rgb(237,76,5)" stroke-width="106" stroke-linejoin="round" d="M 6628,8837 C 9291,7603 18208,4993 19878,6588 21548,8181 21277,23359 20377,24859 19477,26359 8877,26209 7377,24859 5877,23509 9128,21088 8628,19587 8128,18087 5628,18338 4878,16587 4129,14837 3965,10071 6628,8837 Z"/>
+         <rect class="BoundingBox" stroke="none" fill="none" x="4257" y="6088" width="16891" height="19950"/>
+         <path fill="none" stroke="rgb(237,76,5)" stroke-width="106" stroke-linejoin="round" d="M 6628,8892 C 9291,7658 18208,5048 19878,6643 21548,8236 21277,23414 20377,24915 19477,26414 8877,26264 7377,24914 5876,23564 9128,21144 8628,19643 8127,18142 5499,18556 4750,16805 4001,15055 3965,10126 6628,8892 Z"/>
         </g>
        </g>
        <g class="TextShape">
         <g id="id39">
-         <rect class="BoundingBox" stroke="none" fill="none" x="15535" y="2631" width="5350" height="3084"/>
-         <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="16939" y="3522"><tspan fill="rgb(241,13,12)" stroke="none" style="white-space: pre">Rôles</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="15785" y="4466"><tspan fill="rgb(241,13,12)" stroke="none" style="white-space: pre">actuels des</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="16609" y="5410"><tspan fill="rgb(241,13,12)" stroke="none" style="white-space: pre">admins</tspan></tspan></tspan></text>
+         <rect class="BoundingBox" stroke="none" fill="none" x="15535" y="2686" width="5350" height="3084"/>
+         <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="16939" y="3577"><tspan fill="rgb(241,13,12)" stroke="none" style="white-space: pre">Rôles</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="15785" y="4521"><tspan fill="rgb(241,13,12)" stroke="none" style="white-space: pre">actuels des</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="16609" y="5465"><tspan fill="rgb(241,13,12)" stroke="none" style="white-space: pre">admins</tspan></tspan></tspan></text>
         </g>
        </g>
       </g>
