@@ -347,18 +347,16 @@
         <path fill="none" stroke="rgb(52,101,164)" d="M 10700,15900 L 10700,15000"/>
        </g>
       </g>
-      <g class="Group">
-       <g class="com.sun.star.drawing.ClosedBezierShape">
-        <g id="id38">
-         <rect class="BoundingBox" stroke="none" fill="none" x="4606" y="8141" width="11918" height="11564"/>
-         <path fill="none" stroke="rgb(102,137,74)" stroke-width="106" stroke-linejoin="round" d="M 15304,19056 C 17804,17806 15602,11072 14953,10395 13574,8390 11217,7849 8203,8395 5189,8941 4498,13507 4689,16191 4939,19691 12804,20306 15304,19056 Z"/>
-        </g>
+      <g class="com.sun.star.drawing.ClosedBezierShape">
+       <g id="id38">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4393" y="8128" width="11970" height="11616"/>
+        <path fill="none" stroke="rgb(255,166,166)" stroke-width="159" stroke-linejoin="round" d="M 15117,19069 C 17617,17819 15415,11085 14766,10408 13387,8403 11030,7862 8016,8408 5002,8954 4311,13520 4502,16204 4752,19704 12617,20319 15117,19069 Z"/>
        </g>
-       <g class="TextShape">
-        <g id="id39">
-         <rect class="BoundingBox" stroke="none" fill="none" x="1403" y="1595" width="4410" height="4420"/>
-         <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="1844" y="2486"><tspan fill="rgb(102,137,74)" stroke="none" style="white-space: pre">Rôle des</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="2102" y="3430"><tspan fill="rgb(102,137,74)" stroke="none" style="white-space: pre">seniors</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="1653" y="4374"><tspan fill="rgb(102,137,74)" stroke="none" style="white-space: pre">sur (auto)</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="2502" y="5318"><tspan fill="rgb(102,137,74)" stroke="none" style="white-space: pre">appel</tspan></tspan></tspan></text>
-        </g>
+      </g>
+      <g class="TextShape">
+       <g id="id39">
+        <rect class="BoundingBox" stroke="none" fill="none" x="1216" y="1608" width="4410" height="4420"/>
+        <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="1657" y="2499"><tspan fill="rgb(255,109,109)" stroke="none" style="white-space: pre">Rôle des</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="1915" y="3443"><tspan fill="rgb(255,109,109)" stroke="none" style="white-space: pre">seniors</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="1466" y="4387"><tspan fill="rgb(255,109,109)" stroke="none" style="white-space: pre">sur (auto)</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="847px" font-weight="700"><tspan class="TextPosition" x="2315" y="5331"><tspan fill="rgb(255,109,109)" stroke="none" style="white-space: pre">appel</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
